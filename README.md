@@ -1,1 +1,1 @@
-do not use for multiple mail
+do not use for multiple mails
